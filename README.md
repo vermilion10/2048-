@@ -8,3 +8,5 @@ untuk meng-run program ini, silahkan install gcc terlebih dahulu <br>
 lalu jalankan perintah `gcc main.c board.c game.c -o 2048` pada terminal <br>
 untuk membuat tampilan menjadi clear setiap kali dijalankan, silahkan tambahkan `system("cls")` untuk windows dan `system("clear")` untuk linux pada function displayBoard() di board.c <br>
 atau silahkan mendownload file exe pada folder release
+
+[![](https://visitcount.itsvg.in/api?id=vermilion10&label=repo%20view&color=5&icon=5&pretty=false)](https://visitcount.itsvg.in)
